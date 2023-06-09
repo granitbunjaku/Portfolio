@@ -1,0 +1,50 @@
+[
+    {
+        "id" : 1,
+        "language" : "HTML, CSS & JS",
+        "title" : "Microsoft Landing Page Clone Responsive",
+        "photo" : "photos/microsoft.png"
+    },
+    {
+        "id" : 2,
+        "language" : "Tailwind",
+        "title" : "LearnIQ | Buy & Sell Courses",
+        "photo" : "photos/learniq.png"
+    },
+    {
+        "id" : 3,
+        "language" : "JavaScript",
+        "title" : "Microsoft Landing Page Clone Responsive",
+        "photo" : "photos/microsoft.png"
+    },
+    {
+        "id" : 4,
+        "language" : "jQuery",
+        "title" : "My Portfolio",
+        "photo" : "photos/portfolio.png"
+    },
+    {
+        "id" : 5,
+        "language" : "PHP",
+        "title" : "Bloom | Social Media",
+        "photo" : "photos/bloom.png"
+    },
+    {
+        "id" : 6,
+        "language" : "Laravel",
+        "title" : "Reddit Clone | Full Functional",
+        "photo" : "photos/reddit.png"
+    },
+    {
+        "id" : 8,
+        "language" : "Python",
+        "title" : "Web Scraper",
+        "photo" : "photos/scraper.png"
+    },
+    {
+        "id" : 10,
+        "language" : "FastAPI",
+        "title" : "LearnIQ | Buy & Sell Courses",
+        "photo" : "photos/learniq.png"
+    }
+]
